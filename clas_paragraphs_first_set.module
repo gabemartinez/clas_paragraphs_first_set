@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the CLAS Paragraphs First Set feature.
+ */
+
+include_once 'clas_paragraphs_first_set.features.inc';
